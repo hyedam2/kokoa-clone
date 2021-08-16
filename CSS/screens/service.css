@@ -1,0 +1,28 @@
+#service {
+  display: flex;
+  justify-content: center;
+}
+
+.friends-service_icon {
+  margin: 7% 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.friends-service_icon i {
+  font-size: 35px;
+}
+
+.friends-service-icon span {
+  display: flex;
+  justify-content: center;
+  width: 70px;
+  margin-top: 13px;
+}
+
+.friends-service-icon_width {
+  margin-top: 10%;
+  display: flex;
+  justify-content: space-evenly;
+}
